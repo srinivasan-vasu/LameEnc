@@ -1,0 +1,3 @@
+/home/srnvsn/Documents/Projects/Lame/lameenc/build/CMakeFiles/rebuild_cache.dir
+/home/srnvsn/Documents/Projects/Lame/lameenc/build/CMakeFiles/lameenc.dir
+/home/srnvsn/Documents/Projects/Lame/lameenc/build/CMakeFiles/edit_cache.dir
